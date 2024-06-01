@@ -1,2 +1,4 @@
 # teacher-repository
-Private Teachers Discussion
+
+Discussion Area
+
